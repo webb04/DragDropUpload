@@ -1,1 +1,1 @@
-# php-drag-and-drop-upload
+# Drag and drop file upload
